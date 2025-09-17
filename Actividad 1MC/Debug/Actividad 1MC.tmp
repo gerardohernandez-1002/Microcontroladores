@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\Debug\Actividad 1MC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Actividad 1MC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Actividad 1MC.map</FILE>
+  <FILE>Actividad 1MC.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>12</LINE></RESET>
+  <MAIN_LOOP><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>32</LINE></MAIN_LOOP>
+  <GEN_5KHZ><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>60</LINE></GEN_5KHZ>
+  <GEN_25KHZ><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>67</LINE></GEN_25KHZ>
+  <GEN_60KHZ><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>74</LINE></GEN_60KHZ>
+  <GEN_80KHZ><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>81</LINE></GEN_80KHZ>
+  <DELAY_100us><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>93</LINE></DELAY_100us>
+  <DELAY_20us><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>105</LINE></DELAY_20us>
+  <DELAY_8_3us><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>115</LINE></DELAY_8_3us>
+  <DELAY_6_25us><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>124</LINE></DELAY_6_25us>
+  <L1><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>96</LINE></L1>
+  <L2><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>107</LINE></L2>
+  <L3><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>117</LINE></L3>
+  <L4><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad 1MC\Actividad 1MC\main.asm</FILE><LINE>126</LINE></L4>
+ </LABELS>
+</ASSEMBLER_INFO>
