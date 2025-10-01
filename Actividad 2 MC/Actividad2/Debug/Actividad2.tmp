@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\Debug\Actividad2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Actividad2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Actividad2.map</FILE>
+  <FILE>Actividad2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</FILE><LINE>35</LINE></main>
+  <store_loop><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</FILE><LINE>55</LINE></store_loop>
+  <convert_loop><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</FILE><LINE>75</LINE></convert_loop>
+  <bin2bcd><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</FILE><LINE>91</LINE></bin2bcd>
+  <done><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</FILE><LINE>83</LINE></done>
+  <bcd_tens_loop><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</FILE><LINE>95</LINE></bcd_tens_loop>
+  <bcd_done><FILE>c:\users\gerco\Documents\Atmel Studio\7.0\Actividad2\Actividad2\main.asm</FILE><LINE>102</LINE></bcd_done>
+ </LABELS>
+</ASSEMBLER_INFO>
